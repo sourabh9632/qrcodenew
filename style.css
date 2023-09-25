@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&family=Poppins:wght@300;400;700&display=swap');
+ body{
+   background-color: #d5e1ef;
+ }
+ .container{
+ 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+    
+ }
+
+ .white_box{
+     
+  background-color: rgb(255, 255, 255);
+   width: 350px;
+   height: 520px;
+   border-radius: 20px;
+   margin-top: 50px;
+ }
+
+ img{
+   width: 320px;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   margin-top: 15px;
+   border-radius: 20px;
+ }
+ 
+ .first_para{
+   font-family: 'Outfit', sans-serif;
+ 
+font-weight:  700;
+text-align: center;
+font-size: 22px;
+ }
+
+ .second_para{
+   font-family: 'Outfit', sans-serif;
+   font-weight:  400;
+   text-align: center;
+   font-size: 15px;
+   color: #b6b8be;
+ }
